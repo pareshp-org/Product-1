@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "Admin Operator",
+      "category": "iam-admin",
+      "status": "active",
+      "username": "admin@multiproduct.internal",
+      "role": "admin"
+    },
+    {
+      "name": "Lead Engineer",
+      "category": "iam-lead",
+      "status": "active",
+      "username": "lead@multiproduct.internal",
+      "role": "lead"
+    },
+    {
+      "name": "Security Auditor",
+      "category": "iam-auditor",
+      "status": "active",
+      "username": "auditor@multiproduct.internal",
+      "role": "auditor"
+    }
+  ]
+}
